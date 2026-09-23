@@ -3,6 +3,7 @@ Employee Salary Prediction System
 Student: Muhammad Bilal Khan
 Problem: Regression
 Algorithm: Linear Regression
+
 Libraries: NumPy, Scikit-learn, Streamlit
 """
 
